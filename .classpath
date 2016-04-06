@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="companies/src/main/java"/>
+	<classpathentry kind="src" path="companies/src/test/java"/>
+	<classpathentry kind="src" path="core-api/src/main/java"/>
+	<classpathentry kind="src" path="external-listeners/src/main/java"/>
+	<classpathentry kind="src" path="infrastructure/src/main/java"/>
+	<classpathentry kind="src" path="orders/src/main/java"/>
+	<classpathentry kind="src" path="orders/src/test/java"/>
+	<classpathentry kind="src" path="query/src/main/java"/>
+	<classpathentry kind="src" path="query/src/test/java"/>
+	<classpathentry kind="src" path="trade-engine/src/main/java"/>
+	<classpathentry kind="src" path="trade-engine/src/test/java"/>
+	<classpathentry kind="src" path="users-query/src/main/java"/>
+	<classpathentry kind="src" path="users/src/main/java"/>
+	<classpathentry kind="src" path="users/src/test/java"/>
+	<classpathentry kind="src" path="web-ui/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

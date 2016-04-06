@@ -1,0 +1,3 @@
+org/axonframework/samples/trader/company/command/Company.class
+org/axonframework/samples/trader/company/command/CompanyCommandHandler.class
+org/axonframework/samples/trader/company/command/CompanyOrderBookListener.class

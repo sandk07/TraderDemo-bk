@@ -1,0 +1,8 @@
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/orders/src/main/java/org/axonframework/samples/trader/orders/command/TradeManagerSaga.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/orders/src/main/java/org/axonframework/samples/trader/orders/command/BuyTradeManagerSaga.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/orders/src/main/java/org/axonframework/samples/trader/orders/command/PortfolioCommandHandler.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/orders/src/main/java/org/axonframework/samples/trader/orders/command/PortfolioManagementUserListener.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/orders/src/main/java/org/axonframework/samples/trader/orders/command/Transaction.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/orders/src/main/java/org/axonframework/samples/trader/orders/command/Portfolio.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/orders/src/main/java/org/axonframework/samples/trader/orders/command/SellTradeManagerSaga.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/orders/src/main/java/org/axonframework/samples/trader/orders/command/TransactionCommandHandler.java

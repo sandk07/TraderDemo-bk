@@ -1,0 +1,3 @@
+org/axonframework/samples/trader/query/users/UserEntry.class
+org/axonframework/samples/trader/query/users/UserListener.class
+org/axonframework/samples/trader/query/users/repositories/UserQueryRepository.class

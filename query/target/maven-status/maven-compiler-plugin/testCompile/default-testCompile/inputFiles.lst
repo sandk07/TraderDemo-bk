@@ -1,0 +1,7 @@
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/query/src/test/java/org/axonframework/samples/trader/query/transaction/TransactionEventListenerTest.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/query/src/test/java/org/axonframework/samples/trader/query/orderbook/OrderBookListenerIntegrationTest.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/query/src/test/java/org/axonframework/samples/trader/query/portfolio/PortfolioItemEventListenerTest.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/query/src/test/java/org/axonframework/samples/trader/query/portfolio/PortfolioEntryMatcher.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/query/src/test/java/org/axonframework/samples/trader/query/portfolio/PortfolioEntryTest.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/query/src/test/java/org/axonframework/samples/trader/query/transaction/TransactionEntryMatcher.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/query/src/test/java/org/axonframework/samples/trader/query/company/repositories/CompanyRepositoryIntegrationTest.java

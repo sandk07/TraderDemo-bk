@@ -1,0 +1,5 @@
+org/axonframework/samples/trader/tradeengine/command/OrderBook$OrderComparator.class
+org/axonframework/samples/trader/tradeengine/command/OrderBook.class
+org/axonframework/samples/trader/tradeengine/command/OrderBook$1.class
+org/axonframework/samples/trader/tradeengine/command/OrderBookCommandHandler.class
+org/axonframework/samples/trader/tradeengine/command/Order.class

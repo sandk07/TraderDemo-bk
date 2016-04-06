@@ -1,0 +1,7 @@
+org/axonframework/samples/trader/query/company/repositories/CompanyRepositoryIntegrationTest.class
+org/axonframework/samples/trader/query/portfolio/PortfolioItemEventListenerTest.class
+org/axonframework/samples/trader/query/transaction/TransactionEventListenerTest.class
+org/axonframework/samples/trader/query/portfolio/PortfolioEntryMatcher.class
+org/axonframework/samples/trader/query/portfolio/PortfolioEntryTest.class
+org/axonframework/samples/trader/query/transaction/TransactionEntryMatcher.class
+org/axonframework/samples/trader/query/orderbook/OrderBookListenerIntegrationTest.class

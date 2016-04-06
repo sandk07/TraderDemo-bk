@@ -1,0 +1,3 @@
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/trade-engine/src/main/java/org/axonframework/samples/trader/tradeengine/command/OrderBook.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/trade-engine/src/main/java/org/axonframework/samples/trader/tradeengine/command/Order.java
+/.jenkins/jobs/TraderDemo-initial-job/workspace/MyTrader/trade-engine/src/main/java/org/axonframework/samples/trader/tradeengine/command/OrderBookCommandHandler.java

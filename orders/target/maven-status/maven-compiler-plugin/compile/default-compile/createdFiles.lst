@@ -1,0 +1,10 @@
+org/axonframework/samples/trader/orders/command/BuyTradeManagerSaga.class
+org/axonframework/samples/trader/orders/command/BuyTradeManagerSaga$1.class
+org/axonframework/samples/trader/orders/command/PortfolioManagementUserListener.class
+org/axonframework/samples/trader/orders/command/TradeManagerSaga.class
+org/axonframework/samples/trader/orders/command/Portfolio.class
+org/axonframework/samples/trader/orders/command/TransactionCommandHandler.class
+org/axonframework/samples/trader/orders/command/Transaction.class
+org/axonframework/samples/trader/orders/command/Transaction$1.class
+org/axonframework/samples/trader/orders/command/PortfolioCommandHandler.class
+org/axonframework/samples/trader/orders/command/SellTradeManagerSaga.class
